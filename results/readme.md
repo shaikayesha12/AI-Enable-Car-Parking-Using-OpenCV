@@ -1,1 +1,1 @@
-Project result
+Project result in image format
